@@ -88,7 +88,7 @@ public class MapManager {
     private boolean playerInvis;
 
     /**
-     * The Map class holds things that are in a map: their names, files, tilesets, height, and width
+     * The Map class holds things that are in a map: their names, files, tilesets, height, and width.
      */
     public class Map {
 
