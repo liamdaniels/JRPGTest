@@ -1,0 +1,4 @@
+NAME,Imgs Path,option1,option2,option3,option4,level,exp,vital,bigbrain,sharp,hard,Chunk,strength,speed,base job,can switch jobs
+Bea,battlepics/beapics,Attack,Magic,Item,Do Nothing,1,0,60,60,80,40,25,25,10,1,TRUE
+Vladimir,battlepics/beapics,Attack,Magic,Item,Do Nothing,1,0,80,60,60,80,70,70,5,0,TRUE
+SwordBea,battlepics/beapics,Attack,Magic,Item,Do Nothing,10,0,60,60,80,40,25,25,11,0,FALSE

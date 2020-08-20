@@ -1,0 +1,5 @@
+num, file, duration, numFrames, rows, cols, tileheight, tilewidth, x, y
+0,screentrans.png,16,5,1,5,832,1088,0,0
+1,fwoosh.png,60,4,1,4,256,256,6,5
+2,pow.png,25,3,3,1,128,128,0,0
+3,screentrans.png,60,5,1,5,832,1088,0,0

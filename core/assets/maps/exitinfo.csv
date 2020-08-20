@@ -1,0 +1,5 @@
+﻿Mapname,exit1,exit1x,exit1y,exit1tile,exit2,exit2x,exit2y,exit2tile,etc,,,,,,,,,,,
+0:Castlemap,1,5,5,1,,,,,,,,,,,,,,,,
+1:Testmap,0,15,16,0,0,2,2,0,1,5,5,1,,,,,,,,
+2:home,,,,,,,,,,,,,,,,,,,,
+3:homemap,0,0,0,76,0,0,0,76,0,0,0,95,0,0,0,95,0,0,0,62

@@ -1,0 +1,7 @@
+Name, mag, function, cost, effect,desc
+Mac&Cheese,20,0,10,3,Yum. Heals 20 hp
+Bomb,50,1,100,1,BOOM!
+Hammer,10,2,69,0,hit
+Sword,20,2,420,0,stab
+Shirt,20,3,55,0,shirt
+pant,123,3,55,0,not shirt

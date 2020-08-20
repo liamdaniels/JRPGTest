@@ -1,0 +1,6 @@
+(Skipthisline)ORDER:title,mapfile,tilesetfile,height,width,collisions,song,encountersType (0 for no encounters),foregroundtiles
+numMaps,4,,,,,,,
+0:castlemap,cutebigmaptest.csv,tileset2.png,24,32,5/3/00,0,0,/
+1:testmap,bigmaptest.csv,tiles.png,24,32,/,0,1,/
+2:testhouse,hometestmap.csv,tilesets/drydentile.png,29,17,41/42/43/44/45/46,0,0,11/12/13/14/25/26/27/28/29/30/31
+3:drydhome,game_maps/homearea.csv,tilesets/drydentile.png,45,70,0/1/2/3/4/10/11/12/13/14/25/26/27/28/29/30/31/41/42/43/44/45/46/111/127,0,0,/

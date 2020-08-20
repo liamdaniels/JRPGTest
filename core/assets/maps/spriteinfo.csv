@@ -1,0 +1,4 @@
+Map,Sprite 1 Pic,Sprite 1 x,sprite1 y,sprite 1 script,sprite 1 ev flag (0 if not),big,movement,startingdirection,sprite 2 pic,sprite 2 x,etc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,sprites/putinani.png,7,7,15,1,FALSE,1,0,sprites/putinani.png,7,9,4,0,FALSE,0,3,sprites/putinani.png,15,15,2,0,FALSE,1,0,sprites/putinani.png,20,1,7,0,FALSE,0,0,sprites/putinani.png,12,1,9,0,FALSE,2,3,sprites/car.png,13,1,10,100,TRUE,0,0
+1,sprites/putinani.png,9,9,2,0,FALSE,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
